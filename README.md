@@ -1,6 +1,6 @@
 # Accordion
 3 modelos simples e fácil de customizar.   
-Costumo customizar (estilos) conforme cada necessidade, agilizando a demanda.
+Gosto de customizar (estilos) conforme cada necessidade, agilizando a demanda.
 
 # Utilizados
 Bootstrap 4.5.0  
