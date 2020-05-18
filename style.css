@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+	background: #00a185;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	font: 600 35px 'Open Sans', sans-serif;
+	color: #393c40;
+}
+
+h2 {
+	font: 600 30px 'Open Sans', sans-serif;
+	color: #393c40;
+}
+
+p {
+	font: 400 20px 'Open Sans', sans-serif;
+	color: #393c40;
+	line-height: 30px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.modelo1-titulo, .modelo2-titulo, .modelo3-titulo {
+	background: #33495f;
+	cursor: pointer;
+}
+
+.modelo1-titulo:hover, .modelo2-titulo:hover, .modelo3-titulo:hover {
+	background: #293d50;
+	cursor: pointer;
+	transition: all .5s;
+}
+
+.modelo1-titulo h2, .modelo2-titulo h2, .modelo3-titulo h2 {
+	font: 600 28px 'Open Sans', sans-serif;
+	color: #fff;
+	margin: 0;
+}
+
+.modelo1-conteudo, .modelo2-conteudo, .modelo3-conteudo {
+	background: #fff
+}
+
+.modelo1-conteudo p, .modelo2-conteudo p, .modelo3-conteudo p {
+	font: 400 18px 'Open Sans', sans-serif;
+	color: #464545;
+}
+
+.girar {
+	transition: all .5s;
+	transform: rotate(89deg);
+}
+
+.fa-chevron-right {
+	transition: all .5s;
+	color: #fff;
+}
+
+.credito a {
+	font: 400 18px 'Open Sans', sans-serif;
+	color: #fff;
+	text-align: center;
+}
